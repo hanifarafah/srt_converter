@@ -20,4 +20,4 @@ Finally, you can push it
 git push
 ```
 
-You can see, your work in https://github.com/hanifarafah/srt_converter.git
+You can see, your work in [here](https://github.com/hanifarafah/srt_converter/commits/main)
